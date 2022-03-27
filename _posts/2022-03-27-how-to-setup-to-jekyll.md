@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "how to setup jekyll? First step of jekyll."
+title:  "how to setup jekyll?"
 categories: jekyll update
 ---
 # 安装jekyll
-## Windows
+## Windows环境
 1. 安装ruby
 2. 安装Ruby development kit
 3. 使用gem安装jekyll
