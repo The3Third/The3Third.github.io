@@ -1,2 +1,7 @@
 theme: jekyll-theme-slate
 tile: the 3rd's note.
+
+webrick:
+  headers:
+    my-header: the 3rd's note
+    
