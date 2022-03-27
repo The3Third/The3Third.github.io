@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to setup jekyll?"
+title:  "How to setup jekyll?"
 categories: jekyll update
 ---
 # 安装jekyll
