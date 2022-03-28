@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  the3third
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 
 
 # Exclude from processing.
